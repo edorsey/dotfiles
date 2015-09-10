@@ -1,5 +1,7 @@
 # edorsey does dotfiles
 
+I forked and customized these @holmans dotfiles and customized them for my needs. Adding [nvm](https://github.com/creationix/nvm), [direnv](https://github.com/direnv/direnv), and [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh). 
+
 ## dotfiles
 
 Your dotfiles are how you personalize your system. These are mine.
